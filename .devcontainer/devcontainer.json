@@ -28,7 +28,9 @@
 		"esbenp.prettier-vscode",
 		"formulahendry.auto-rename-tag",
 		"VisualStudioExptTeam.vscodeintellicode",
-		"ms-vscode.live-server"
+		"ms-vscode.live-server",
+		"dsznajder.es7-react-js-snippets",
+		"burkeholland.simple-react-snippets"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
